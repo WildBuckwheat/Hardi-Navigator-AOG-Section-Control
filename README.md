@@ -12,24 +12,24 @@ This project is a work in progress. Progress notes are shared below.
 
  The sprayer is a Hardi Navigator 3000. I generally pull this sprayer with a John Deere 7410 tractor equipped with an AgOpenGPS guidance system. In the past this tractor was equipped with a Trimble CFX-750 and the Hardi JobCom connection was used for automatic section control. Since upgrading to AgOpenGPS I have been using manual section controls. The intent of this project is to regain automatic section control.
 
-  ![Hardi Navigator 3000](/Images/Hardi_Navigator_3000.jpg)
+  ![Hardi Navigator 3000](/images/Hardi_Navigator_3000.jpg)
  
 
  The sprayer is equipped with a 90' eagle boom and 6 section valves. The 6 section valves are of the EVC type, utilizing a DC motor to direct flow between the boom and tank return.
 
- ![Section Valves](/Images/Fluid_Junction_Box.jpg)
+ ![Section Valves](/images/Fluid_Junction_Box.jpg)
 
 
  In cab control is through an HC5500 controller and Spray II controller. The HC5500 offers rate control while the Spray II controller offers manual section control and manual pressure override.
 
-  ![HC5500 and Spray II control boxes mounted in 7410 cab](/Images/HC5500_SprayII.jpg)
+  ![HC5500 and Spray II control boxes mounted in 7410 cab](/images/HC5500_SprayII.jpg "Cab controls")
 
   
  The sprayer is equipped with a Hardi JobCom PCB. This JobCom PCB is an upgrade PCB offered by Hardi which allows an external GPS system (Trimble, AgLeader, etc) to control the sections and rate via a serial connection. The JobCom PCB replaced a Hardi Break-out PCB, a much simpler PCB with no microcontroller, I am still in possesion of this Break-out PCB.
 
-  ![JobCom PCB](/Images/JobCom_PCB.jpg)
+  ![JobCom PCB](/images/JobCom_PCB.jpg "JobCom PCB")
 
-  ![Break-out PCB](/Images/Break-out_PCB.jpg)
+  ![Break-out PCB](/images/Break-out_PCB.jpg "Break-out PCB")
 
 
 ## The upgrade paths
@@ -62,7 +62,7 @@ SK21 has developed the RC15 rate and section control . It has the following feat
 
 A render of the SK21 RC15 PCB below
 
-![SK21 RC15](Images/K21_RC15.jpg "SK21 RC15")
+![SK21 RC15](images/K21_RC15.jpg "SK21 RC15")
 
 My needs are as described below
 - 6 reversible (motorized ball valve) outputs
