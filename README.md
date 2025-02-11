@@ -75,7 +75,7 @@ My needs are as described below
 - a very specific mounting pattern to fit in the control box
 - input power via ring terminals
 
-If the K21 RC15 was a different shape with different plugs, it would be ideal for this application. As a bonus, the firmware portion is already completed, the AgOpenGPS integration (through the rate control app) is already completed, the HC5500 and Spray II control boxes will be redundant, and the system will be capabl of variable rate.
+If the K21 RC15 was a different shape with different plugs, it would be ideal for this application. As a bonus, the firmware portion is already completed, the AgOpenGPS integration (through the rate control app) is already completed, the HC5500 and Spray II control boxes will be redundant, and the system will be capable of variable rate.
 
 It should be straight forward to edit the SK21 RC15 schematic to add the plugs required, and then to create a custom PCB routing to create the requird form factor.
 
