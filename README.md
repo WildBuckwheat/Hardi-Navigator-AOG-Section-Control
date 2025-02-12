@@ -97,25 +97,25 @@ The JobCom/Break-out PCB boards connect to the flow regulator with screwless ter
 ![JobCom Regulator Connection](/images/JobCom_regulator_connection.jpg "JobCom Regulator Connection")
 
 
-What is of mot interest is the DB37 connector that connects via cable to the Fluid Junction Box at the rear of the sprayer. Unfortunately the pinout at this connector does not appear to be described in any Hardi manual.
+What is of most interest is the DB37 connector that connects via cable to the Fluid Junction Box at the rear of the sprayer. Unfortunately the pinout at this connector does not appear to be described in any Hardi manual.
 
 ![Break-out PCB](/images/Break-out_PCB_markup.jpg "Break-out PCB")
 
 
 ## Data Collection - Fluid Junction Box Cable
 
-At the rear of the sprayer exists the Fluid Junction Box. Connected to the Fluid Junction Box are the 6 section valves, the flow meter, and the wheel speed sensor. The cable does not appear to be a direct passthrough.
+At the rear of the sprayer exists the Fluid Junction Box. Connected to the Fluid Junction Box are the 6 section valves, the flow meter, and the wheel speed sensor. The cable does not appear to have a direct 1-1 pinout.
 
 ![Fluid Junction Box](/images/Fluid_Junction_Box_silkscreen.jpg "Fluid Junction Box")
 
 
 ## Data Collection - The missing pinout
 
-The db37 to Fluid Junction Box connector pinout is crucial to know for the projct to proceed. Through continuity tests between the connector in question and the labelled db37 to HC5500/Spray II connector I was able to determine much of the pinout. Some further continuity tests between the Fluid Junction Box and the connector were performed to verify the results. The secondary Fluid Junction Box tests were more troublesome to perform so not very pin was tested, but the results were as expected.
+The db37 to Fluid Junction Box connector pinout is crucial to know for the project to proceed. Through continuity tests between the connector in question and the labelled db37 to HC5500/Spray II connector I was able to determine much of the pinout. Some further continuity tests between the Fluid Junction Box and the connector were performed to verify the results. The secondary Fluid Junction Box tests were more troublesome to perform so not every pin was tested, but the results were as expected.
 
 ![DB37 Pinout](/images/db37_pinout.jpg "DB37 Pinout")
 
-![DB37 Pinout](/images/EDA_db37_pinout.jpg "DB37 Pinout")
+![DB37 Pinout2](/images/EDA_db37_pinout.jpg "DB37 Pinout")
 
 
 # Data Collection - The Red Mounting Plate
@@ -126,7 +126,7 @@ The red steel mounting plate was modelled in CAD so that a dxf could be imported
 
 ![Mounting Plate](/images/RedMountingPlate.jpg "Mounting Plate")
 
-![Mounting Plate](/images/EDARedMountingPlateDXF.jpg "Mounting Plate")
+![Mounting Plate2](/images/EDARedMountingPlateDXF.jpg "Mounting Plate")
 
 
 # Data Collection - PCB Standoff
@@ -136,8 +136,8 @@ The steel plate has a thickness of 1.80mm (0.071") with 4.63mm (0.182") diameter
 The plastic standoffs appear to be Keystone 8808 which is radily available from Digikey and the likes https://www.digikey.ca/en/products/detail/keystone-electronics/8803/317140
 
 ![PCB Standoff](/images/PCB_Standoff.jpg "PCB Standoff")
-![PCB Standoff](/images/PCB_Standoff2.jpg "PCB Standoff")
-![PCB Standoff](/images/PCB_Standoff3.jpg "PCB Standoff")
+![PCB Standoff2](/images/PCB_Standoff2.jpg "PCB Standoff")
+![PCB Standoff3](/images/PCB_Standoff3.jpg "PCB Standoff")
 
 
 
