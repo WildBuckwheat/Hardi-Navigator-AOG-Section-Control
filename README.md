@@ -133,7 +133,7 @@ The red steel mounting plate was modelled in CAD so that a dxf could be imported
 
 The steel plate has a thickness of 1.80mm (0.071") with 4.63mm (0.182") diameter mounting holes. The Break-out PCB has a thickness of 1.66mm (0.065") with 3.80mm (0.150") diameter mounting holes. The distance between the steel mounting plate and the PCB is 6.35mm (0.25").
 
-The plastic standoffs appear to be Keystone 8808 which is radily available from Digikey and the likes https://www.digikey.ca/en/products/detail/keystone-electronics/8803/317140
+The plastic standoffs appear to be Keystone 8808 which is readily available from Digikey and the likes https://www.digikey.ca/en/products/detail/keystone-electronics/8803/317140
 
 ![PCB Standoff](/images/PCB_Standoff.jpg "PCB Standoff")
 ![PCB Standoff2](/images/PCB_Standoff2.jpg "PCB Standoff")
