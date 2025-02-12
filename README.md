@@ -115,7 +115,7 @@ The db37 to Fluid Junction Box connector pinout is crucial to know for the proje
 
 ![DB37 Pinout](/images/db37_pinout.jpg "DB37 Pinout")
 
-![DB37 Pinout2](/images/EDA_db37_pinout.jpg "DB37 Pinout")
+![DB37 Pinout](/images/EDA_db37_pinout.jpg "DB37 Pinout")
 
 
 # Data Collection - The Red Mounting Plate
@@ -126,7 +126,7 @@ The red steel mounting plate was modelled in CAD so that a dxf could be imported
 
 ![Mounting Plate](/images/RedMountingPlate.jpg "Mounting Plate")
 
-![Mounting Plate2](/images/EDARedMountingPlateDXF.jpg "Mounting Plate")
+![Mounting Plate](/images/EDARedMountingPlateDXF.jpg "Mounting Plate")
 
 
 # Data Collection - PCB Standoff
@@ -136,8 +136,8 @@ The steel plate has a thickness of 1.80mm (0.071") with 4.63mm (0.182") diameter
 The plastic standoffs appear to be Keystone 8808 which is readily available from Digikey and the likes https://www.digikey.ca/en/products/detail/keystone-electronics/8803/317140
 
 ![PCB Standoff](/images/PCB_Standoff.jpg "PCB Standoff")
-![PCB Standoff2](/images/PCB_Standoff2.jpg "PCB Standoff")
-![PCB Standoff3](/images/PCB_Standoff3.jpg "PCB Standoff")
+![PCB Standoff](/images/PCB_Standoff2.jpg "PCB Standoff")
+![PCB Standoff](/images/PCB_Standoff3.jpg "PCB Standoff")
 
 
 
